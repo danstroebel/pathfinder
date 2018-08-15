@@ -9,9 +9,9 @@ Most access will be via mobile devies, so everything needs to be responsive.
 
 ### To Do
 
-- [] Landing Page
-- [] Load data into mongoose
-- [] Create Undead [see here](http://www.ragweedquilting.com/pub/PRPG%20Monsters.htm)
-- [] Summoned monsters
-- [] User Login
-- [] Favorites per user for sites
+- [ ] Landing Page
+- [ ] Load data into mongoose
+- [ ] Create Undead [see here](http://www.ragweedquilting.com/pub/PRPG%20Monsters.htm)
+- [ ] Summoned monsters
+- [ ] User Login
+- [ ] Favorites per user for sites
